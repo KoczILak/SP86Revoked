@@ -71,6 +71,7 @@ p {
     justify-content: center;
     transform: translateX(91px) translateY(-183px);
     border: 4px solid;
+    background-color: white;
 }
 
 .welcomePar {
